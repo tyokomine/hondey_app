@@ -1,7 +1,7 @@
 <?php
 class HondeyController extends AppController {
 	var $uses = array('Member');
-	var $viewClass = 'Smarty';
+	//var $viewClass = 'Smarty';
 
 	function index() {
 		$this -> layout = "Hondey/login";
@@ -67,8 +67,8 @@ class HondeyController extends AppController {
 	function facebookAouth() {
 		require_once '/usr/share/pear/facebook-php-sdk/src/facebook.php';
 		//Facebookアプリの情報
-		define("HondeyURL", "http://wishalist.com/cake/Hondey/facebookAouth");
-		define("homeURL", "http://wishalist.com/cake/Hondey/bookRegister");
+		define("HondeyURL", "http://wishalist.com/Hondey/facebookAouth");
+		define("homeURL", "http://wishalist.com/Hondey/bookRegister");
 		$config = array();
 		$config['appId'] = '158794500914681';
 		$config['secret'] = '90e103874d5fba4f6fd5b6e8f1c52d14';

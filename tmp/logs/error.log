@@ -196,3 +196,81 @@
 #9 /var/www/html/cake/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
 #10 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #11 {main}
+2012-05-22 21:26:32 Error: [MissingControllerException] Controller class {$Html->url('facebookAouth')}Controller could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 21:28:35 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:05:26 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:05:26 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:05:26 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:05:26 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:05:27 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:05:27 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:06:09 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:06:09 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:06:09 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:06:09 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:06:09 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:06:09 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:06:36 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:06:36 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:06:36 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:06:36 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:06:36 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:06:36 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:12:47 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:12:47 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:12:47 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:12:47 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:12:47 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-22 22:12:47 Error: [MissingControllerException] Controller class CakeController could not be found.
+#0 /home/homepage/project/hondey/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
