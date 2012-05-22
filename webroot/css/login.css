@@ -1,0 +1,90 @@
+header {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+
+#main {
+	background-color: #F29200;
+	height: 520px;
+	width: 100%;
+}
+
+#facebook {
+	margin: 260px 0 50px 537px;
+	width: 179px;
+	height: 25px;
+}
+
+#hondey-top {
+	position: absolute;
+	top: 172px;
+	left: 464px;
+	height: 130px;
+	width: 332px;
+}
+
+#subtitle {
+	position: absolute;
+	top: 305px;
+	left: 511px;
+	width: 241px;
+	height: 40px;
+	font-family: Cooper Black;
+	color: #002059;
+	font-size: 17px;
+}
+
+#subtitle:hover{
+	/*	text-decoration: underline;*/
+	color: white;
+}
+
+#subtitle2 {
+	position: absolute;
+	top: 193px;
+	left: 570px;
+	width: 300px;
+	height: 40px;
+	font-family: Cooper Black;
+	color: white;
+	font-size: 26px;
+}
+
+#title {
+	position: absolute;
+	top: 0;
+	left: 128px;
+	height: 128px;
+	width: 300px;
+	background-color: #F29200;
+	padding-top: 85px;
+}
+
+.people {
+	width: 33.4%;
+	height: auto;
+	float: left;
+}
+
+.people2 {
+	width: 33.3%;
+	height: auto;
+	float: left;
+}
+
+#people-box {
+	width: 100%;
+	height: 139px;
+}
+
+#footer {
+	height: 20%;
+	width: 100%;
+}
+
+#people-all {
+	width: 100%;
+	height: 138px;
+}

@@ -1,0 +1,336 @@
+body {
+	margin: 0;
+	font: 15px 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', "メイリオ", Meiryo, Arial, Osaka, Verdana, 'ＭＳ Ｐゴシック', sans-serif;
+}
+
+/*header*/
+
+header {
+	position: fixed;
+	width: 100%;
+	height: 70px;
+	background-color: #F29200;
+	z-index: 1;
+}
+
+#hondey {
+	position: absolute;
+	left: 530px;
+	width: 192px;
+	height: 64px;
+}
+
+#hello {
+	position: absolute;
+	margin: 22px 1030px;
+	width: 220px;
+	height: 15px;
+	font-size: 18px;
+}
+
+#person_header {
+	position: absolute;
+	margin: 7px 950px;
+	width: 57px;
+	height: 57px;
+	-webkit-border-radius: 10px;
+}
+
+/*body*/
+
+.section0 {
+	position: fixed;
+	top: 70px;
+	left: 0;
+	margin: 0 110px;
+	width: 1008px;
+	height: 229px;
+	border-bottom: #F29200 1px solid;
+	background-color: white;
+	z-index: 1;
+}
+
+.section1 {
+	position: absolute;
+	margin: 310px 110px;
+	width: 1053px;
+	height: 39px;
+}
+
+.section2 {
+	position: absolute;
+	margin: 311px 110px;
+	width: 715px;
+	height: 174px;
+	padding-left: 7px;
+	padding-top: 3px;
+	border-bottom: #F29200 1px solid;
+}
+
+.section3 {
+	position: absolute;
+	margin: 486px 110px;
+	width: 756px;
+	height: 508px;
+	padding-left: 7px;
+	padding-top: 10px;
+}
+
+.section4 {
+	position: absolute;
+	margin: 300px 832px;
+	width: 284px;
+	height: 528px;
+	border-left: #F29200 1px solid;
+	padding-left: 8px;
+}
+
+#book {
+	position: absolute;
+	margin: 7px 254px;
+	width: 186px;
+	height: 228px;
+}
+
+#arrow {
+	position: absolute;
+	margin: 67px 445px;
+	width: 186px;
+	height: 28px;
+}
+
+#arrow1 {
+	width: 40px;
+	height: 30px;
+	margin: 17px 44px;
+}
+
+#arrow2 {
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-left: 10px;
+}
+
+#whom {
+	position: absolute;
+	margin: 7px 604px;
+	width: 220px;
+	height: 220px;
+}
+
+.product_recommend {
+	width: 120px;
+	height: 150px;
+	max-width:150%;
+	margin-left:6px;
+	margin-top:7px;
+}
+
+.person_recommend {
+	width: 200px;
+	height: 139px;
+}
+
+.order {
+	height: 26px;
+	padding-top: 8px;
+	text-align: center;
+}
+
+form {
+	width: 170px;
+	height: 20px;
+}
+
+#amazon_suggest {
+	width: 150px;
+	height: 20px;
+	padding-left: 10px;
+	margin: 179px -2px;
+	border-radius: 5px;
+/*	border: 2px whiteSmoke solid;*/
+	-webkit-border-top-right-radius: 30px;
+	-webkit-border-top-left-radius: 30px;
+	-webkit-border-bottom-right-radius: 30px;
+	-webkit-border-bottom-left-radius: 30px;
+}
+
+#fb_suggest {
+	width: 150px;
+	height: 20px;
+	padding-left: 10px;
+	margin: 179px -2px;
+	border-radius: 5px;
+/*	border: 2px whiteSmoke solid;*/
+	-webkit-border-top-right-radius: 30px;
+	-webkit-border-top-left-radius: 30px;
+	-webkit-border-bottom-right-radius: 30px;
+	-webkit-border-bottom-left-radius: 30px;
+}
+
+.product {
+	margin: 5px 3px;
+	width: 116px;
+	height: 159px;
+}
+
+.person {
+	width: 80px;
+	height: 80px;
+	margin: 3px 1px;
+	-webkit-border-radius: 10px;
+}
+
+#myself {
+	float: left;
+	margin: 189px 19px;
+	height:20px;
+}
+
+#friend {
+	float: left;
+	height:20px;
+}
+
+#favorite {
+	margin: -4px;
+	height: 38px;
+	width: 38px;
+}
+
+#conversation {
+	margin: -4px;
+	height: 38px;
+	width: 38px;
+}
+
+#friend_list {
+	margin: 11px;
+	height: 45px;
+	width: 46px;
+	float: left;
+}
+
+#friend1 {
+	margin: 21px 4px;
+	height: 30px;
+	width: 167px;
+	font-size: 18px;
+	float: left;
+}
+
+#favorite2 {
+	font-size: 16px;
+	width: 31px;
+	height: 5px;
+	margin: 7px 5px 0 4px;
+}
+
+#conversation2 {
+	font-size: 16px;
+	width: 31px;
+	height: 5px;
+	margin: 7px 5px 0 -2px;
+}
+
+#book-picture {
+	position: absolute;
+}
+
+#person-picture {
+	position: absolute;
+	width: 30px;
+	height: 34px;
+	margin-left:49px;
+	margin-top:40px;
+	-webkit-border-radius:10px;
+}
+
+#book-box1 {
+	position: absolute;
+	margin: 2px 15px;
+	width: 130px;
+	height: 165px;
+	border: 2px solid #F29200;
+	-webkit-border-radius: 10px;
+}
+
+#whom-box1 {
+	position: absolute;
+	margin: 15px 15px;
+	width: 130px;
+	height: 130px;
+	border: 2px solid #F29200;
+	-webkit-border-radius: 10px;
+}
+
+.book-drop-here {
+	height: 26px;
+	margin-top: 102px;
+	text-align: center;
+	z-index: 1;
+}
+
+.person-drop-here {
+	height: 26px;
+	margin-top: 102px;
+	text-align: center;
+	z-index: 1;
+}
+
+#favorite-box {
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-top: 10px;
+}
+
+#conversation-box {
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 700px;
+}
+.ui-draggable-dragging{
+	z-index: 2;
+}
+#comment_box {
+	width: 361px;
+	height: 212px;
+	float: left;
+	margin-left: 30px;
+	margin-bottom: 10px;
+	padding: 10px;
+	-webkit-border-radius: 10px;
+}
+
+#button-send {
+	font-size: 12px;
+	color: black;
+	padding: 6px 9px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border: 1px solid #013140;
+	-moz-box-shadow: 0px 1px 3px rgba(012,013,013,0.5), inset 0px 0px 2px rgba(090,115,214,1);
+	-webkit-box-shadow: 0px 1px 3px rgba(012,013,013,0.5), inset 0px 0px 2px rgba(090,115,214,1);
+	float: right;
+	margin-right: 15px;
+}
+
+#button-cancel {
+	font-size: 12px;
+	color: black;
+	padding: 6px 9px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border: 1px solid #013140;
+	-moz-box-shadow: 0px 1px 3px rgba(012,013,013,0.5), inset 0px 0px 2px rgba(090,115,214,1);
+	-webkit-box-shadow: 0px 1px 3px rgba(012,013,013,0.5), inset 0px 0px 2px rgba(090,115,214,1);
+	float: right;
+	margin-right: 25px;
+}
+

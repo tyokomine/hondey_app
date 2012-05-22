@@ -1,0 +1,279 @@
+* {
+ margin:0;
+ padding:20px,20px
+}
+
+body {
+ width: 100%;
+ text-align:left;
+ font-family: Verdana;
+}
+ 
+ header {
+ height:50px;
+ 	/* Firefox用 */
+ border-bottom: 3px solid #003999;  
+ z-index:1;
+}
+
+.header_button{
+font-family: Verdana;
+	font-size: 12px;
+	color: #ffffff;
+	padding: 8px 12px;
+	margin: 7px 22px 6px 2px;
+	background: -moz-linear-gradient(
+		top,
+		#7fdbeb 0%,
+		#058a8a);
+	background: -webkit-gradient(
+		linear, left top, left bottom, 
+		from(#7fdbeb),
+		to(#058a8a));
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border: 1px solid #013140;
+	-moz-box-shadow:
+		0px 1px 3px rgba(012,013,013,0.5),
+		inset 0px 0px 2px rgba(090,115,214,1);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(012,013,013,0.5),
+		inset 0px 0px 2px rgba(090,115,214,1);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.4),
+		0px 1px 0px rgba(255,255,255,0.3);
+}
+
+#test1{
+	position:absolute; 
+	left: 1070px; 
+	top: 15px;
+	text-decoration:none;
+	font-weight: bold;
+	font-family: Verdana;
+}
+
+#test1:hover{
+	text-decoration: underline;
+}
+
+#test2{
+	position:absolute;
+	left:1160px; 
+	top: 15px;
+	text-decoration:none;
+	font-weight: bold;
+	font-family: Verdana;
+}
+
+#test2:hover{
+	text-decoration: underline;
+}
+
+#site_logo {
+	position:absolute; 
+	left: 460px; 
+	margin: 0 auto;
+}
+
+#search_box {
+	position:absolute; 
+	left: 110px; 
+	height:30px;
+	top: 9px;
+/* グラデーション指定*/
+	border: none;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+    /* テキストシャドウ */
+    text-shadow: 1px 1px 0px #fff;
+    /* ボックスシャドウ */
+    -webkit-box-shadow: -1px -1px 0px #000;
+    /* グラデーション */
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#efefef));
+    background: -moz-linear-gradient(top,  #ffffff,  #efefef);
+}
+
+#header_fbpic{
+    position:absolute;
+	left: 890px;
+}
+
+header #fb_name{
+	position:absolute;  
+	top: 12px;
+	left: 963px;
+}
+
+h2{
+	font-family: Verdana;
+	font-size: 18px;
+	
+}
+
+.box0{
+	left: 0;
+	border-bottom:1px solid #ccc;
+	height: 90px;
+	width :100%;
+}
+
+.box1{
+	position:absolute;
+	left: 0;
+	border-bottom:1px solid #ccc;
+	height: 250px;
+	width :100%;
+}
+
+.box2{
+	position:absolute;
+	top: 400px;
+	left: 0;
+	border-bottom:1px solid #ccc;
+	height: 250px;
+	width: 100%;
+}
+
+#profile1{
+	float: left;
+	margin: 7px 0 0 30px;
+}
+
+#myname{
+	color: blue;
+	text-decoration: none;
+	margin-left: 3px;
+}
+
+#myname:hover{
+	text-decoration: underline;
+}
+
+#picture{
+	margin-left: 10px;
+	margin-bottom: 3px;
+	margin-right: 5px;
+	width: 50px;
+	height: 50px;
+}
+
+.buttons2{
+	margin-top: 4px;
+}
+
+.all{
+	color: blue;
+	font-family: Verdana;
+	font-size: 13px;
+	margin-left: 5px;
+	margin-right: 12px;
+	text-decoration: none;
+}
+
+.all:hover{
+	text-decoration: underline;
+}
+
+.name{
+	margin-top: 5px;
+	font-size: 15px;
+}
+
+.name:hover{
+	text-decoration: underline;
+}
+
+.author{
+	margin-top: 7px;
+	margin-left: 5px;
+	font-family: Verdana;
+	text-align: left;
+	color: #0000CC;
+	font-size: 12px;
+}
+
+.author:hover{
+	text-decoration: underline;
+}
+
+.section1{
+	float: left;
+	text-align: center;
+	margin: 25px 45px 0 50px;
+}
+
+.section2{
+	float: left;
+	text-align: center;
+	margin: 25px 45px 0 45px;
+}
+
+.link{
+	font-family: Verdana;
+	color: #0000CC;
+	text-align: center;
+	
+	text-decoration: none;
+}
+
+.send{
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 40px;
+	color: blue;
+	font-family: Verdana;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.send:hover{
+	text-decoration: underline;
+}
+
+footer {
+	width:100%;
+	height:50px;
+	clear:left;
+	text-align:center;
+	border-top:1px dashed #ccc;  
+}
+
+footer ul{
+	list-style:none;
+}
+footer li{
+	float:left;
+	top:20px;
+}
+
+.button1{
+font-family: Verdana;
+	font-size: 12px;
+	color: #ffffff;
+	padding: 8px 12px;
+	margin: 7px 12px 6px 2px;
+	background: -moz-linear-gradient(
+		top,
+		#7fdbeb 0%,
+		#058a8a);
+	background: -webkit-gradient(
+		linear, left top, left bottom, 
+		from(#7fdbeb),
+		to(#058a8a));
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border: 1px solid #013140;
+	-moz-box-shadow:
+		0px 1px 3px rgba(012,013,013,0.5),
+		inset 0px 0px 2px rgba(090,115,214,1);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(012,013,013,0.5),
+		inset 0px 0px 2px rgba(090,115,214,1);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.4),
+		0px 1px 0px rgba(255,255,255,0.3);
+}

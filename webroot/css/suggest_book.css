@@ -1,0 +1,99 @@
+body {
+	margin: 0;
+	font-family: Verdana;
+}
+
+#hello {
+	position: absolute;
+	margin: 17px 1030px;
+	width: 90px;
+	height: 15px;
+	font-family: Verdana;
+	font-size: 18px;
+}
+
+#person_header {
+	position: absolute;
+	margin: 6px 950px;
+	width: 50px;
+	height: 50px;
+}
+
+.section1 {
+	position: absolute;
+	margin: 80px 0;
+	width: 1263px;
+	height: 209px;
+}
+
+.section2 {
+	position: absolute;
+	margin: 309px 25px;
+	width: 900px;
+	height: 508px;
+	padding-left: 7px;
+}
+
+.section3 {
+	position: absolute;
+	margin: 309px 962px;
+	width: 301px;
+	height: 508px;
+}
+
+.book {
+	position: absolute;
+	margin: 0 360px;
+	width: 170px;
+	height: 292px;
+}
+
+.whom {
+	position: absolute;
+	margin: 0 700px;
+	width: 220px;
+	height: 220px;
+}
+
+.product_recommend {
+	width: 140px;
+	height: 160px;
+	padding-left:10px;
+}
+
+.person_recommend {
+	width: 200px;
+	height: 139px;
+	padding-left:15px;
+}
+
+.order {
+	height: 26px;
+	padding-top: 8px;
+	text-align: center;
+}
+
+form{
+	width:170px;
+	height:20px;
+}
+
+.searchbox1 {
+	margin: 3px 4px;
+}
+
+.searchbox2 {
+	margin: 3px 37px;
+}
+
+.product {
+	margin: 5px 3px;
+	width:117px;
+	height:160px;
+}
+
+.person {
+	width: 80px;
+	height: 80px;
+	margin: 5px 3px;
+}

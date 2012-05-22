@@ -1,0 +1,282 @@
+/*header*/
+
+header {
+	position: fixed;
+	width: 100%;
+	height: 70px;
+	background-color: #F29200;
+	z-index: 1;
+}
+
+#hondey {
+	position: absolute;
+	left: 530px;
+	width: 192px;
+	height: 64px;
+}
+
+#hello {
+	position: absolute;
+	margin: 22px 1030px;
+	width: 90px;
+	height: 15px;
+	font-size: 18px;
+}
+
+#person_header {
+	position: absolute;
+	margin: 7px 950px;
+	width: 57px;
+	height: 57px;
+	-webkit-border-radius: 10px;
+}
+
+/*body*/
+
+body {
+	width: 1263px;
+	height: 1200px;
+	margin: 0;
+	font: 15px 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', "メイリオ", Meiryo, Arial, Osaka, Verdana, 'ＭＳ Ｐゴシック', sans-serif;
+}
+
+p {
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+.section0 {
+	position: absolute;
+	top: 93px;
+	left: 400px;
+	width: 516px;
+	height: 162px;
+	border-bottom: 1px solid #F29200;
+}
+
+.section1 {
+	position: absolute;
+	left: 400px;
+	top: 267px;
+	width: 516px;
+	height: 69px;
+	border-bottom: 1px solid #F29200;
+}
+
+.section2 {
+	position: absolute;
+	top: 360px;
+	left: 396px;
+	width: 500px;
+	height: 800px;
+	padding-left: 7px;
+}
+
+.section3 {
+	position: absolute;
+	margin: 309px 962px;
+	width: 301px;
+	height: 508px;
+}
+
+#book-title {
+	width: auto;
+	height: 20px;
+	font-weight: bold;
+	margin-bottom: 8px;
+	text-decoration: underline;
+	font-size: 16px;
+}
+
+#friend-conversation {
+	width: 142px;
+	height: 20px;
+	margin: 20px;
+	float: left;
+}
+
+.book {
+	position: absolute;
+	margin: 0 38px;
+	width: 166px;
+	height: 219px;
+}
+
+#amazon {
+	margin-top: 2px;
+	height: 25px;
+	width: 147px;
+}
+.book-info {
+	position: absolute;
+	margin: 0 235px;
+	width: 220px;
+	height: 120px;
+}
+
+.book-info2 {
+	font-size: 12px;
+}
+
+.whom {
+	position: absolute;
+	margin: 0 700px;
+	width: 220px;
+	height: 220px;
+}
+
+.product_recommend {
+	width: 140px;
+	height: 140px;
+	padding-left: 10px;
+}
+
+.person_recommend {
+	width: 200px;
+	height: 139px;
+	padding-left: 15px;
+}
+
+.order {
+	height: 26px;
+	padding-top: 8px;
+	text-align: center;
+}
+
+form {
+	width: 170px;
+	height: 20px;
+}
+
+.searchbox1 {
+	margin: 3px 4px;
+}
+
+.searchbox2 {
+	margin: 3px 37px;
+}
+
+#product {
+	margin: 5px 3px;
+	width: 117px;
+	height: 160px;
+}
+
+.person_box {
+	float: left;
+}
+
+.person {
+	width: 80px;
+	height: 80px;
+	margin: 5px 3px;
+	-webkit-border-radius: 10px;
+}
+
+.person-small {
+	width: 50px;
+	height: 50px;
+	margin: 5px 3px;
+	-webkit-border-radius: 10px;
+	float: left;
+}
+
+.balloon-body {
+	width: 360px;
+	height: auto;
+	border: 6px solid #FFAE35;
+	background-color: #FFFFFF;
+	content: "";
+	float: left;
+	margin-left: 30px;
+	margin-bottom: 30px;
+	padding: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.baloon-triangle1 {
+	position: absolute;
+	margin: 25px -30px;
+	height: 0;
+	width: 0;
+	border-top: 21px solid #FFAE35;
+	border-left: 20px solid transparent;
+}
+
+.baloon-triangle2 {
+	position: absolute;
+	margin: 25px -30px;
+	height: 0;
+	width: 0;
+	border-top: 21px solid #C4CDE0;
+	border-left: 20px solid transparent;
+}
+
+#comment_box {
+	width: 361px;
+	height: 110px;
+	border: 6px solid #C4CDE0;
+	background-color: #FFFFFF;
+	float: left;
+	margin-left: 30px;
+	margin-bottom: 10px;
+	padding: 10px;
+	-webkit-border-radius: 10px;
+}
+
+#button-send {
+	font-size: 12px;
+	color: black;
+	padding: 6px 9px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border: 1px solid #013140;
+	-moz-box-shadow: 0px 1px 3px rgba(012,013,013,0.5), inset 0px 0px 2px rgba(090,115,214,1);
+	-webkit-box-shadow: 0px 1px 3px rgba(012,013,013,0.5), inset 0px 0px 2px rgba(090,115,214,1);
+	float: right;
+	margin-right: 15px;
+}
+
+#button-cancel {
+	font-size: 12px;
+	color: black;
+	padding: 6px 9px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border: 1px solid #013140;
+	-moz-box-shadow: 0px 1px 3px rgba(012,013,013,0.5), inset 0px 0px 2px rgba(090,115,214,1);
+	-webkit-box-shadow: 0px 1px 3px rgba(012,013,013,0.5), inset 0px 0px 2px rgba(090,115,214,1);
+	float: right;
+	margin-right: 25px;
+}
+
+.name {
+	text-align: center;
+}
+
+#balloon2 {
+	width: 520px;
+	height: 80px;
+	border: 1px solid #C4CDE0;
+	background-color: #C4CDE0;
+	-webkit-border-radius: 15px;
+	margin-bottom: 15px;
+}
+
+#comment {
+	width: 359px;
+	height: 108px;
+	margin: -10px -10px;
+	border: 6px solid #fff;
+	-webkit-border-radius: 10px;
+	padding: 5px;
+	font: 15px 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', "メイリオ", Meiryo, Arial, Osaka, Verdana, 'ＭＳ Ｐゴシック', sans-serif;
+}
+
+.balloon {
+	width: 520px;
+	height: 110px;
+	margin-top: 10px;
+}

@@ -1,0 +1,197 @@
+* {
+ margin:0;
+ padding:20px,20px;
+}
+
+body {
+ width:1200px;
+ margin-left:20px;
+ margin-right:auto;
+ margin-top:20px;
+ text-align:left;
+ }
+
+header {
+ background:#f0f8ff;
+ height:150px;
+ border-radius: 10px;		/* CSS3草案 */
+ -webkit-border-radius: 10px;	/* Safari,Google Chrome用 */
+ -moz-border-radius: 10px;	/* Firefox用 */
+ margin:200px,20px;
+ border-bottom:1px dashed #ccc;  
+}
+
+footer {
+	width:100%;
+	height:50px;
+	clear:left;
+	text-align:center;
+	border-top:1px dashed #ccc;  
+}
+/*--#elements*/
+#wrapper {
+ width:700px;
+ float:left;
+ margin-right:10px;
+}
+
+#center_flow {
+ background:#e6e6fa;
+ width:450px;
+ float:right;
+ margin-left:10px;
+ height:700px;
+ /*test*/
+  border-radius: 10px;		/* CSS3草案 */
+ -webkit-border-radius: 10px;	/* Safari,Google Chrome用 */
+ -moz-border-radius: 10px;	/* Firefox用 */
+}
+#center_flow h1{
+	border-left:7px solid #ccc;  
+    border-bottom:1px solid #ccc;  
+    padding:.6em .8em;
+}
+#right_flow h1{
+	border-left:7px solid #ccc;  
+    border-bottom:1px solid #ccc;  
+    padding:.6em .8em;
+}
+
+
+#fix_container{
+ height:700px;
+ width:240px;
+ float:right;
+}
+#fix_container h1{
+border-left:7px solid #ccc;  
+    border-bottom:1px solid #ccc;  
+    padding:.6em .8em;
+	}
+#recieved_wish{
+	width:100%;
+	height:50%;
+	background:#e6e6fa;
+	/*test*/
+	border-radius: 10px;		/* CSS3草案 */
+	-webkit-border-radius: 10px;	/* Safari,Google Chrome用 */
+	-moz-border-radius: 10px;	/* Firefox用 */
+}
+#added_wish{
+	width:100%;
+	height:50%;
+	background:#e6e6fa;
+	/*test*/
+	border-radius: 10px;		/* CSS3草案 */
+	-webkit-border-radius: 10px;	/* Safari,Google Chrome用 */
+	-moz-border-radius: 10px;	/* Firefox用 */
+}
+
+.personal_update ul{
+	list-style:none;
+}
+.personal_update li{
+	float:left;
+	top:20px;
+}
+
+
+#right_flow {
+ background:#e6e6fa;
+ width:450px;
+ float:left;
+ height:700px;
+ 
+  border-radius: 10px;		/* CSS3草案 */
+ -webkit-border-radius: 10px;	/* Safari,Google Chrome用 */
+ -moz-border-radius: 10px;	/* Firefox用 */
+ }
+/*~~button~~*/
+
+.header_button{
+font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #ffffff;
+	padding: 10px 20px;
+	background: -moz-linear-gradient(
+		top,
+		#7fdbeb 0%,
+		#058a8a);
+	background: -webkit-gradient(
+		linear, left top, left bottom, 
+		from(#7fdbeb),
+		to(#058a8a));
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border: 1px solid #013140;
+	-moz-box-shadow:
+		0px 1px 3px rgba(012,013,013,0.5),
+		inset 0px 0px 2px rgba(090,115,214,1);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(012,013,013,0.5),
+		inset 0px 0px 2px rgba(090,115,214,1);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.4),
+		0px 1px 0px rgba(255,255,255,0.3);
+}
+header ul {
+	list-style:none;
+}
+header li {
+	float:right;
+	top:20px;
+}
+#site_logo {
+	position:absolute; 
+	left:500px; 
+	top:20px;
+}
+#search_box {
+	position:absolute; 
+	left:100px; 
+	height:30px;
+	top:60px;
+/* グラデーション指定*/
+	border: none;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+    /* テキストシャドウ */
+    text-shadow: 1px 1px 0px #fff;
+    /* ボックスシャドウ */
+    -webkit-box-shadow: -1px -1px 0px #000;
+    /* グラデーション */
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#efefef));
+    background: -moz-linear-gradient(top,  #ffffff,  #efefef);
+}
+
+#header_fbpic{
+    position:absolute;  
+	top:100px;
+	left:1000px;
+
+	}
+header #fb_name{
+	position:absolute;  
+	top:100px;
+	left:1100px;
+}
+
+.flow_full_wish{
+	width:100%;
+	height:220px;
+}
+
+.flow_full_wish article {
+ width:100px;
+ float:left;
+ height:200px;
+}
+footer ul{
+	list-style:none;
+}
+footer li{
+	float:left;
+	top:20px;
+}

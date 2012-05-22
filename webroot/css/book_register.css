@@ -1,0 +1,240 @@
+body {
+	margin: 0;
+	font: 15px 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', "メイリオ", Meiryo, Arial, Osaka, Verdana, 'ＭＳ Ｐゴシック', sans-serif;
+}
+header {
+	position: fixed;
+	width: 100%;
+	height: 70px;
+	background-color: #F29200;
+	z-index: 1;
+}
+#hello {
+	position: absolute;
+	margin: 22px 1030px;
+	width: 150px;
+	height: 15px;
+	font-size: 18px;
+}
+#person_header {
+	position: absolute;
+	margin: 7px 950px;
+	width: 57px;
+	height: 57px;
+	-webkit-border-radius: 10px;
+}
+.section1 {
+	position: absolute;
+	top: 75px;
+	left: 40px;
+	width: 244px;
+	height: 245px;
+	border-bottom: #F29200 1px solid;
+}
+.section2 {
+	position: absolute;
+	top: 70px;
+	left: 281px;
+	width: 850px;
+	height: 250px;
+	padding-left: 7px;
+	border-bottom: #F29200 1px solid;
+}
+.section3 {
+	position: absolute;
+	top: 346px;
+	left: 123px;
+	width: 1132px;
+	height: 315px;
+}
+form {
+	width: 170px;
+	height: 20px;
+}
+#order {
+	width: 217px;
+	height: 50px;
+	margin-top: 3px;
+	margin-left: 15px;
+	font: 15px 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', "メイリオ", Meiryo, Arial, Osaka, Verdana, 'ＭＳ Ｐゴシック', sans-serif;
+}
+#search_form{
+	margin:0 0 28px 380px;
+}
+#searchbox1 {
+	width: 150px;
+	height: 20px;
+	padding-left: 10px;
+	margin: 0 57px;
+	border-radius: 5px;
+	/*	border: 2px whiteSmoke solid;*/
+	-webkit-border-top-right-radius: 30px;
+	-webkit-border-top-left-radius: 30px;
+	-webkit-border-bottom-right-radius: 30px;
+	-webkit-border-bottom-left-radius: 30px;
+}
+#book-small {
+	width: 109px;
+	height: 117px;
+	margin-top: -22px;
+	margin-left: -50px;
+	margin-right: 10px;
+	-webkit-border-radius: 10px;
+	float: left;
+}
+#person {
+	width: 180px;
+	height: 180px;
+	margin: 18px 49px;
+	-webkit-border-radius: 10px;
+}
+#amazon_suggest {
+	width: 150px;
+	height: 20px;
+	padding-left: 10px;
+	margin: 1px 33px;
+	border-radius: 5px;
+/*	border: 2px whiteSmoke solid;*/
+	-webkit-border-top-right-radius: 30px;
+	-webkit-border-top-left-radius: 30px;
+	-webkit-border-bottom-right-radius: 30px;
+	-webkit-border-bottom-left-radius: 30px;
+}
+.book1 {
+	position: absolute;
+	margin: 3px 3px;
+}
+.book2 {
+	position: absolute;
+	margin: 3px 3px;
+}
+.book3 {
+	position: absolute;
+	margin: 3px 3px;
+}
+.book4 {
+	position: absolute;
+	margin: 3px 3px;
+}
+.book5 {
+	position: absolute;
+	margin: 3px 3px;
+}
+.box {
+	margin: 26px 4px;
+	width: 150px;
+	height: 185px;
+	float: left;
+}
+.book-box {
+	width: 130px;
+	height: 165px;
+	margin-top: 20px;
+	border: 2px solid #F29200;
+	-webkit-border-radius: 10px;
+}
+#book-box2 {
+	position: absolute;
+	margin: 71px 180px;
+	width: 130px;
+	height: 165px;
+	border: 2px solid #F29200;
+}
+#book-box3 {
+	position: absolute;
+	margin: 71px 345px;
+	width: 130px;
+	height: 165px;
+	border: 2px solid #F29200;
+}
+#book-box4 {
+	position: absolute;
+	margin: 71px 510px;
+	width: 130px;
+	height: 165px;
+	border: 2px solid #F29200;
+}
+#book-box5 {
+	position: absolute;
+	margin: 71px 675px;
+	width: 130px;
+	height: 165px;
+	border: 2px solid #F29200;
+}
+#hondey {
+	position: absolute;
+	left: 530px;
+	width: 197px;
+	height: 64px;
+}
+.product {
+	margin: 5px 3px;
+	width: 116px;
+	height: 159px;
+}
+.drop-here {
+	height: 26px;
+	margin-top: 88px;
+	text-align: center;
+}
+.x-button {
+	float: right;
+	height: 40px;
+	width: 40px;
+	z-index: 2;
+}
+#hondey-top {
+	position: absolute;
+	top: 172px;
+	left: 464px;
+	height: 130px;
+	width: 332px;
+	z-index: 1000000;
+}
+
+#subtitle {
+	position: absolute;
+	top: 305px;
+	left: 511px;
+	width: 241px;
+	height: 40px;
+	font-family: Cooper Black;
+	color: #002059;
+	font-size: 17px;
+	z-index: 1000000;
+}
+#section-x {
+	display: none;
+	position: absolute;
+	top: 231px;
+	left: 610px;
+	width: 503px;
+	height: 141px;
+	border: 2px solid #F29200;
+	-webkit-border-radius: 10px;
+	padding-top: 30px;
+	padding-left: 46px;
+	padding-right: 40px;
+	z-index: 99999;
+	background-color: white;
+	font-size: 25px;
+}
+.order {
+	font-size: 16px;
+}
+.home-button {
+	font-size: 12px;
+	color: black;
+	padding: 6px 9px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border: 1px solid #013140;
+	-moz-box-shadow: 0px 1px 3px rgba(012,013,013,0.5), inset 0px 0px 2px rgba(090,115,214,1);
+	-webkit-box-shadow: 0px 1px 3px rgba(012,013,013,0.5), inset 0px 0px 2px rgba(090,115,214,1);
+	float: right;
+	margin-top: 181px;
+}
+#finish-button {
+	width: 880px;
+}

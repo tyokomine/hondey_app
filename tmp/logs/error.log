@@ -1,0 +1,198 @@
+2012-04-23 14:22:20 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 14:55:04 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 14:57:18 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 14:58:55 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 15:00:33 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 15:00:49 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 15:07:12 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 15:15:10 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 15:15:34 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 15:15:37 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 15:22:01 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 15:23:07 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 15:30:25 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 15:34:05 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 15:19:34 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 15:47:37 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 15:49:23 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 15:58:13 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:01:38 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:02:52 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:04:06 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:12:06 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:13:24 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:13:48 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:13:55 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:15:08 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:15:17 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:15:20 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:15:41 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:15:44 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:16:27 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:17:40 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:20:18 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:22:54 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:24:03 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:24:15 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:33:47 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:35:11 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:36:02 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:36:23 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:39:14 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:42:39 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 16:49:49 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 18:42:06 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 18:42:47 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 18:42:59 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 18:56:50 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 18:57:30 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 19:22:11 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 19:28:09 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 19:29:22 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 19:30:54 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 19:31:17 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 19:34:35 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+#0 /var/www/html/cake/lib/Cake/Model/ConnectionManager.php(94): ConnectionManager::_getConnectionObject('default')
+#1 /var/www/html/cake/lib/Cake/Model/Model.php(3372): ConnectionManager::getDataSource('default')
+#2 /var/www/html/cake/lib/Cake/Model/Model.php(1083): Model->setDataSource('default')
+#3 /var/www/html/cake/lib/Cake/Model/Model.php(3398): Model->setSource('posts')
+#4 /var/www/html/cake/lib/Cake/Model/Model.php(2653): Model->getDataSource()
+#5 /var/www/html/cake/app/Controller/PostsController.php(7): Model->find('all')
+#6 [internal function]: PostsController->index()
+#7 /var/www/html/cake/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /var/www/html/cake/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/cake/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2012-04-23 19:35:37 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+#0 /var/www/html/cake/lib/Cake/Model/ConnectionManager.php(94): ConnectionManager::_getConnectionObject('default')
+#1 /var/www/html/cake/lib/Cake/Model/Model.php(3372): ConnectionManager::getDataSource('default')
+#2 /var/www/html/cake/lib/Cake/Model/Model.php(1083): Model->setDataSource('default')
+#3 /var/www/html/cake/lib/Cake/Model/Model.php(3398): Model->setSource('posts')
+#4 /var/www/html/cake/lib/Cake/Model/Model.php(2653): Model->getDataSource()
+#5 /var/www/html/cake/app/Controller/PostsController.php(7): Model->find('all')
+#6 [internal function]: PostsController->index()
+#7 /var/www/html/cake/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /var/www/html/cake/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/cake/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2012-04-23 19:35:56 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+#0 /var/www/html/cake/lib/Cake/Model/ConnectionManager.php(94): ConnectionManager::_getConnectionObject('default')
+#1 /var/www/html/cake/lib/Cake/Model/Model.php(3372): ConnectionManager::getDataSource('default')
+#2 /var/www/html/cake/lib/Cake/Model/Model.php(1083): Model->setDataSource('default')
+#3 /var/www/html/cake/lib/Cake/Model/Model.php(3398): Model->setSource('posts')
+#4 /var/www/html/cake/lib/Cake/Model/Model.php(2653): Model->getDataSource()
+#5 /var/www/html/cake/app/Controller/PostsController.php(7): Model->find('all')
+#6 [internal function]: PostsController->index()
+#7 /var/www/html/cake/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /var/www/html/cake/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/cake/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/html/cake/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
