@@ -64,7 +64,7 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'root',
-		'password' => '1x60Ks4N',
+		'password' => '',
 		'database' => 'hondey',
 		'prefix' => '',
 		'encoding' => 'utf8',
