@@ -8,6 +8,7 @@ class HondeyController extends AppController {
 	}
 
 	function bookRegister($sid) {
+		
 		$this -> layout = "Hondey/book_register";
 		$this -> Session -> id($sid);
 		$id = $this -> Session -> read('hondey_id');
